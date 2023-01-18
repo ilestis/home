@@ -15,7 +15,7 @@ module.exports = {
       summary: `who is a tinkerer, artisan, dungeon master, occasional musician, and the founder of Kanka.io.`,
     },
     description: `A place for me to write down my thoughts.`,
-    siteUrl: `https://jpaynech.dev/`,
+    siteUrl: `https://jpayne.dev/`,
   },
   plugins: [
     `gatsby-plugin-image`,
